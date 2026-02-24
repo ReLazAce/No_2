@@ -10,3 +10,8 @@ dua kata/kalimat yang memiliki:
 -Hanya berbeda urutan
 First Recurring Character:
 karakter pertama dalam sebuah string yang muncul lebih dari sekali.
+Simulasi Buku Telepon:
+Program sederhana yang dapat digunakan untuk:
+-Menambah kontak
+-Mencari kontak berdasarkan nama
+-Menampilkan semua kontak

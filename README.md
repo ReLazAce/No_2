@@ -8,3 +8,5 @@ dua kata/kalimat yang memiliki:
 -Huruf yang sama
 -Jumlah huruf yang sama
 -Hanya berbeda urutan
+First Recurring Character:
+karakter pertama dalam sebuah string yang muncul lebih dari sekali.
